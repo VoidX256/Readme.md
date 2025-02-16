@@ -1,4 +1,4 @@
-##👋 Hi, I'm  VoidX256
+#👋 Hi, I'm  VoidX256
 
 I specialize in TypeScript, Discord bot development, and web development to create seamless user life and powerful automation tools. I also enjoy tearing apart the latest technologies and sharing knowledge with the community.
 
