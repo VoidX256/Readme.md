@@ -14,4 +14,4 @@ I specialize in TypeScript, Discord bot development, and web development to crea
 
 - **Email:** bankaiizmm@gmail.com
 - **Discord:** [Discord Server Link](https://discord.gg/Vrc3PfGA9H)
-- **GitHub:** [[GitHub Profile Link](https://github.com/VoidX256)
+- **GitHub:** [GitHub Profile Link](https://github.com/VoidX256)
